@@ -1,0 +1,23 @@
+//socket服务端口
+socket_port=8000
+
+//DDNS客户端信息
+str_UsrName=javen
+
+//超时检测（秒）
+time_out=5
+
+//此处为腾讯云账户安全凭证
+str_SecretId=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+str_SecretKey=xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+//需要修改的域名解析信息
+domain=spray0.cn
+subDomain=pc
+
+//解析参数
+recordType=A
+recordLine=默认
+
+* 只允许修改'='后的参数，且开始与结束不应有空格
+* recordId 会自动获取

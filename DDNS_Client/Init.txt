@@ -1,0 +1,9 @@
+//DDNS服务端口
+DDNS_PORT=8000
+
+//DDNS服务器地址
+DDNS_IP=0.0.0.0
+
+//DDNS客户端信息
+str_UsrName=javen
+
